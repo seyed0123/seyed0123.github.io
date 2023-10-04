@@ -40,6 +40,7 @@ A collection of my blog posts with links to read more.
 # Game
 the game on the site has been used from OXDuelCards repo that exists in this [link](https://github.com/seyed0123/OXDuelCards).
 check it if you like.
+use can play it by entering to the game section in the nav bar.
 # Contact
 How to reach you, including links to your social media profiles.
 
